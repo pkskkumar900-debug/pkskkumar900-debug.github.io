@@ -4,4 +4,4 @@ This repository manages custom domain routing and GitHub Pages configurations fo
 
 * **Live Portfolio:** [https://imprince.me](https://imprince.me)
 * **Source Code Repository:** [Portfolio-prince-raj](https://github.com/pkskkumar900-debug/Portfolio-prince-raj)
-* **Developer:** Prince Raj ([@pkskkumar900-debug](https://github.com/pkskkumar900-debug))
+* **Developer:** Prince Raj ([@pkskkumar900-debug](https://github.com/princeraj-in)
